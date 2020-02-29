@@ -1,0 +1,8 @@
+touch fajl.txt - napravi novi .txt fajl
+start fajl.txt -otvori ga u notepadu
+git init - povezi se s masterom
+git add fajl.txt -doda ga na granu
+git add . - sve nove fajlove ce dodati na granu
+git commit -m "povrdi na master da se snimi na server sve izmene"
+git log - da se vide sve izmene i commitovi
+git status - pokaze ko jos nije komitovan 
